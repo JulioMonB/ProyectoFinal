@@ -1,0 +1,36 @@
+﻿{
+    border-width: 1px;
+    border-color: green;
+    border-style: solid;
+}
+
+.div-nav{
+    display: flex;
+    margin-left: 20px;
+}
+
+.monterozon {
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 30px;
+    margin-top: 40px;
+}
+
+.div-menu {
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: 2%;
+    padding: 10px;
+    text-align: center;
+}
+.div-menu > a {
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    margin-right: 50px
+}
+
+.img {
+    width: 100%;
+}
