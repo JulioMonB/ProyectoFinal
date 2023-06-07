@@ -165,6 +165,10 @@ body {
         }
 
 /*TIENDA*/
+.div-txt-tienda{
+    margin-top: 50px;
+}
+
 .wrapper {
     height: 420px;
     width: 654px;
